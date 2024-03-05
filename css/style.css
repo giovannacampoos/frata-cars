@@ -78,7 +78,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #5405ad;
+  background: #b482ee;
   overflow-y: auto;
 }
 
@@ -101,7 +101,7 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
