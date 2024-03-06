@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #fcf8c2;
+  background: #000000;
   overflow-y: auto;
 }
 
@@ -87,7 +87,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #626360;
 }
 
 #header .profile h1 {
@@ -102,14 +102,14 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: rgb(0, 0, 0);
+  color: rgb(247, 240, 240);
   text-decoration: none;
 }
 
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #4532f5;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -176,7 +176,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #000107;
+  color: #ebedfa;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
